@@ -1,3 +1,7 @@
 this is new line
+<<<<<<< HEAD
 new line added in local repo
 
+=======
+new line added in github
+>>>>>>> 6c37f78c485b52d13395786165daae08e1c4b445
